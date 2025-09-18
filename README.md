@@ -90,19 +90,19 @@ Use the search bar to filter posts by title/content.
 📸 Example Screens
 ### 📝 Post List
 View all posts with pagination.  
-![Post List](./screenshots/ab1.png)
+![Post List](./screenshots/ab1.PNG)
 
 ---
 
 ### ➕ Create Post
 Add a new post with image upload.  
-![Create Post](./screenshots/ab2.png)
+![Create Post](./screenshots/ab2.PNG)
 
 ---
 
 ### ✏️ Edit Post
 Update existing post details.  
-![Edit Post](./screenshots/ab3.png)
+![Edit Post](./screenshots/ab3.PNG)
 ⚙️ Tech Stack
 Backend: Laravel 12
 
