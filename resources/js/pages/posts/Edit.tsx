@@ -30,7 +30,7 @@ interface PostDataType {
 }
 
 export default function Dashboard({postData}: {postData: PostDataType}) {
-    const {data, setData, post, processing} = useForm<{
+    const {data, setData,  processing} = useForm<{
         title:string,
         category:string,
         status:string,
